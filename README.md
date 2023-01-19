@@ -7,13 +7,17 @@
 
 - 📲 Contactame **adavidlopezmathez@gmail.com**
 
-- 📄 Sobre mi [Nací en 1991 y cuando salí de la secundaría en el 2009 decidí estudiar comunicación social. Sin embargo, a mis 30 años me di cuenta que mi verdadera pasión se encontraba en la programación de código y no en la comunicación. Desde entonces me encuentro perfeccionandome en distintas tecnologías y buscando especializarme en el Front.](Nací en 1991 y cuando salí de la secundaría en el 2009 decidí estudiar comunicación social. Sin embargo, a mis 30 años me di cuenta que mi verdadera pasión se encontraba en la programación de código y no en la comunicación. Desde entonces me encuentro perfeccionandome en distintas tecnologías y buscando especializarme en el Front.)
+- 📄 Sobre mi Nací en 1991 y cuando salí de la secundaría en el 2009 decidí estudiar comunicación social. Sin embargo, a mis 30 años me di cuenta que mi verdadera pasión se encontraba en la programación de código y no en la comunicación. Desde entonces me encuentro perfeccionandome en distintas tecnologías y buscando especializarme en el Front. Nací en 1991 y cuando salí de la secundaría en el 2009 decidí estudiar comunicación social. Sin embargo, a mis 30 años me di cuenta que mi verdadera pasión se encontraba en la programación de código y no en la comunicación. Desde entonces me encuentro perfeccionandome en distintas tecnologías y buscando especializarme en el Front.
 
 - ⚡ Fun fact **Soy una persona sumamente competitiva y amante de los juegos de mesa. Una combinación explosiva.**
 
 <h3 align="left">Conectá conmigo:</h3>
 <p align="left">
+<a href="https://twitter.com/dlopezmathez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dlopezmathez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-lopez-mathez-084190103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-lopez-mathez-084190103/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/david.lopezmathez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/david.lopezmathez/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/davidlopezmathez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/davidlopezmathez/" height="30" width="40" /></a>
+<a href="https://discord.gg/cubo1991#6962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cubo1991#6962" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
