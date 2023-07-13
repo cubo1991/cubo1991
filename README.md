@@ -113,4 +113,7 @@
 <br />
 
 ----
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11174442601&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
