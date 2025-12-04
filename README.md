@@ -220,10 +220,6 @@ Con formación en **Comunicación Social**, aporto no solo experticia técnica s
 
 ## 📊 Estadísticas de GitHub
 
-<img height="180em" src="https://camo.githubusercontent.com/0920686b7ae4ccba8c9397450dd70919eedc0ff57781e74502ae15737b4babbc/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539353137343533362f6772732d7468656d65735f6c34796e6a612e706e67>
-<img height="180em" src="https://i.ytimg.com/vi/eCUy0F-oVXA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDkzGSu8T1FlhCza4w61Yz4bfTkkA>
-
-<img src="https://lh3.googleusercontent.com/Nh2Tgj4oBx2N2ZnqeEFdMboax8NjUeO9eIZXQk3gIsBo9WYLCszXZ3lWOO3M1jz86vK-KQyM01hZl9M2wF5NphSE2zM=s1280-w1280-h800" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cubo1991&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6A5ACD&line=6A5ACD&point=c9d1d9" alt="Gráfico de Actividad" />
 
