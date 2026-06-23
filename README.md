@@ -242,7 +242,7 @@ const davidLopez = {
     },
     
     valorÚnico: {
-        técnico: "5+ años construyendo aplicaciones web escalables",
+        técnico: "+3 años construyendo aplicaciones web escalables",
         comunicación: "Licenciado en Comunicación Social - puente entre tech y personas",
         entrega: "Desde setup de DNS hasta producción - soluciones completas",
         mentalidad: "Perfeccionista con el código, pragmático con los plazos"
@@ -314,3 +314,4 @@ Ya sea que necesites un **desarrollador full-stack**, un **consultor técnico**,
   <p><i>"Construyendo la web, un commit a la vez."</i> 💻</p>
   
 </div>
+Page_UpPage_UpPage_UpPage_Up
