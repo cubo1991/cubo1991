@@ -29,7 +29,7 @@
 
 Soy un **Desarrollador Full-Stack** y **Consultor Técnico** de Mendoza, Argentina 🇦🇷, especializado en crear **soluciones web claras, modulares y profesionales** con foco en la **experiencia del usuario** y la **calidad estructural del código**.
 
-Con formación en **Comunicación Social**, aporto no solo experticia técnica sino también fuertes habilidades de comunicación interpersonal e institucional—siendo el puente entre la tecnología y las personas. Me obsesiona la **estabilidad visual**, la **navegación fluida** y los detalles que hacen que una interfaz se sienta verdaderamente profesional.
+Con formación en **Comunicación Social** y completando la **Tecnicatura Universitaria en Programación (UTN)**, aporto no solo experticia técnica sino también fuertes habilidades de comunicación interpersonal e institucional—siendo el puente entre la tecnología y las personas. Me obsesiona la **estabilidad visual**, la **navegación fluida** y los detalles que hacen que una interfaz se sienta verdaderamente profesional.
 
 💡 *No me conformo con que "funcione"—tiene que sentirse bien.*
 
