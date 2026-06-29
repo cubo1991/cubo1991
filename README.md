@@ -243,7 +243,7 @@ const davidLopez = {
     
     valorÚnico: {
         técnico: "+3 años construyendo aplicaciones web escalables",
-        comunicación: "Licenciado en Comunicación Social - puente entre tech y personas",
+        comunicación: "Técnico en Comunicación Social - puente entre tech y personas",
         entrega: "Desde setup de DNS hasta producción - soluciones completas",
         mentalidad: "Perfeccionista con el código, pragmático con los plazos"
     },
